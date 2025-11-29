@@ -7,7 +7,6 @@ My very first Arduino project — a functional traffic light system for cars and
 - 5 LEDs (red, yellow, green for cars, red and green for pedestrians)
 - 5 resistors (220Ω)
 - 1 push button
-- Breadboard + jumper wires
 
 ## 🧠 Project Logic
 - The LEDs simulate a real traffic light for cars (red, yellow, green).
@@ -22,7 +21,8 @@ The code was written in Tinkercad and exported as `.ino`.
 You can open it in Arduino IDE, upload it to your board, and modify it as you like.
 
 ## 📷 Tinkercad Simulation
-https://www.tinkercad.com/things/1R5TYZ0OOzB-trafficlight/editel?returnTo=%2Fthings%2F1R5TYZ0OOzB-semaforpietoni
+<img width="1536" height="632" alt="traffic_light" src="https://github.com/user-attachments/assets/6ea93e3a-c2f6-4776-a0ff-0a2863fafe7b" />
+
 
 ## 🧠 What I Learned
 - How to use digital pins on Arduino
@@ -34,3 +34,4 @@ https://www.tinkercad.com/things/1R5TYZ0OOzB-trafficlight/editel?returnTo=%2Fthi
 - Add a buzzer for sound alerts
 - Display countdown timer for pedestrians
 - Replace button with a proximity sensor
+
