@@ -23,15 +23,9 @@ You can open it in Arduino IDE, upload it to your board, and modify it as you li
 ## 📷 Tinkercad Simulation
 <img width="1536" height="632" alt="traffic_light" src="https://github.com/user-attachments/assets/6ea93e3a-c2f6-4776-a0ff-0a2863fafe7b" />
 
-
-## 🧠 What I Learned
-- How to use digital pins on Arduino
-- Controlling LEDs and a push button
-- Implementing real-world traffic light logic
-- Documenting and sharing projects on GitHub
-
 ## 🚀 Posible Improvements
 - Add a buzzer for sound alerts
 - Display countdown timer for pedestrians
 - Replace button with a proximity sensor
+
 
